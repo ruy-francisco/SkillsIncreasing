@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\SkillsIncreasing\SkillsIncreasing\BirdsAndEggs\bin\Debug\BirdsAndEggs.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\SkillsIncreasing\SkillsIncreasing\BirdsAndEggs\bin\Debug\BirdsAndEggs.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\SkillsIncreasing\SkillsIncreasing\BirdsAndEggs\bin\Debug\BirdsAndEggs.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\SkillsIncreasing\SkillsIncreasing\BirdsAndEggs\obj\Debug\BirdsAndEggs.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\SkillsIncreasing\SkillsIncreasing\BirdsAndEggs\obj\Debug\BirdsAndEggs.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\SkillsIncreasing\SkillsIncreasing\BirdsAndEggs\obj\Debug\BirdsAndEggs.pdb
