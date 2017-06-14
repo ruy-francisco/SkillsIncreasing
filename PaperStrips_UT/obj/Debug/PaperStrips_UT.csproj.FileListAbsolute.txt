@@ -1,0 +1,9 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips_UT\bin\Debug\PaperStrips_UT.dll
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips_UT\bin\Debug\PaperStrips_UT.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips_UT\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips_UT\bin\Debug\PaperStrips.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips_UT\bin\Debug\PaperStrips.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips_UT\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips_UT\obj\Debug\PaperStrips_UT.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips_UT\obj\Debug\PaperStrips_UT.dll
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips_UT\obj\Debug\PaperStrips_UT.pdb

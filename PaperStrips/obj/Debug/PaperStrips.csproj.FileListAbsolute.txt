@@ -1,0 +1,6 @@
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips\bin\Debug\PaperStrips.exe.config
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips\bin\Debug\PaperStrips.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips\bin\Debug\PaperStrips.pdb
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips\obj\Debug\PaperStrips.csprojResolveAssemblyReference.cache
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips\obj\Debug\PaperStrips.exe
+C:\Users\ruy.almeida\Documents\Visual Studio 2015\Projects\SkillsIncreasing\PaperStrips\obj\Debug\PaperStrips.pdb
